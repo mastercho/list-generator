@@ -1,1 +1,1 @@
-"# list-generator" 
+SIMPLE EXAMPLE FOR LIST GENERATOR
